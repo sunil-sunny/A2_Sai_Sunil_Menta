@@ -1,0 +1,15 @@
+.avatar{
+
+  background-image: url('https://pickaface.net/gallery/avatar/InspireBuddy5290e4bdc07a4.png');
+  background-size: cover;
+}
+.example-card {
+  max-width: 10000px;
+}
+.center {
+  margin: auto;
+  width: 100%;
+  padding: 10px;
+  background-color:snow;
+  border: thistle;
+}
