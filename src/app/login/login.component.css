@@ -19,6 +19,6 @@ mat-icon {
 
 .icon {
   margin: auto;
-  width: 0%;
-  padding-right: 1px;
+  width: 50%;
+  padding-left: 10px;
 }

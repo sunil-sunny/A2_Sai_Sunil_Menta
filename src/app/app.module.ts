@@ -19,7 +19,7 @@ import {MatCardModule} from '@angular/material/card';
 import {MatGridListModule} from '@angular/material/grid-list';
 import { FormBuilder, FormControl, FormGroup, FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { DoctorPageAppointmentsComponent } from './doctor-page-appointments/doctor-page-appointments.component';
-import { BootstarpComponent } from './bootstarp/bootstarp.component';
+
 
 
 
@@ -31,8 +31,7 @@ import { BootstarpComponent } from './bootstarp/bootstarp.component';
     LoginComponent,
     HomepageComponent,
     DoctorpageComponent,
-    DoctorPageAppointmentsComponent,
-    BootstarpComponent
+    DoctorPageAppointmentsComponent
   ],
   imports: [
     BrowserModule,
