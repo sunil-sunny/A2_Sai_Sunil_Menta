@@ -1,6 +1,6 @@
-<div class="center">
+<div class="container">
 
-  <div class="container">
+  <div class="center">
     <mat-vertical-stepper [linear]="true">
       <mat-step label="Email" [stepControl]="emailFormGroup">
         <form [formGroup]="emailFormGroup">
@@ -28,13 +28,14 @@
         </form>
       </mat-step>
     </mat-vertical-stepper>
-  </div>
-  <div class="container-sm">
-    <div class="icon">
-      <button mat-fab color="primary" [disabled]="!passwordFormGroup.valid">
-        <mat-icon>trending_flat</mat-icon>
-      </button>
+    <div class="container-sm">
+      <div class="icon">
+        <button mat-fab color="primary" [disabled]="!passwordFormGroup.valid">
+          <mat-icon>trending_flat</mat-icon>
+        </button>
+      </div>
     </div>
   </div>
+
 
 </div>
