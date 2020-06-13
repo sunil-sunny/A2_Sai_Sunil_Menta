@@ -19,6 +19,7 @@ import {MatCardModule} from '@angular/material/card';
 import {MatGridListModule} from '@angular/material/grid-list';
 import { FormBuilder, FormControl, FormGroup, FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { DoctorPageAppointmentsComponent } from './doctor-page-appointments/doctor-page-appointments.component';
+import { SearchdoctorComponent } from './searchdoctor/searchdoctor.component';
 
 
 
@@ -31,7 +32,8 @@ import { DoctorPageAppointmentsComponent } from './doctor-page-appointments/doct
     LoginComponent,
     HomepageComponent,
     DoctorpageComponent,
-    DoctorPageAppointmentsComponent
+    DoctorPageAppointmentsComponent,
+    SearchdoctorComponent
   ],
   imports: [
     BrowserModule,
