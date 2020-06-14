@@ -1,28 +1,33 @@
 #Assignment_2
 
-Assignment 2 of the course is all about creating front end pages with embedding lorem ipsum text. This application basically has user with three roles i.e patinet,
-doctor and guest. Patient can login and then search doctors as per their requirments. After searching dcotor, patient can schedule an appointment with doctor.
-In doctor view of application he/she can approve or decline the appointment request.
+Assignment 2 of the course is all about creating front end pages with embedding lorem ipsum text. This application has users with three roles i.e patient,
+doctor, and guest. Patients can log in and then search for doctors as per their requirements. After searching for the doctor, the patient can schedule an appointment with a doctor.
+In the doctor's view of the application, he/she can approve or decline the appointment request.
 
-Developed Landing page(Blogs), Login , Doctor Profile page, search doctor page and View Appointments page. On opening the application all the links are active. 
+Developed Landing page(Blogs), log in, Doctor Profile page, search doctor page, and View Appointments page. On opening the application all the links are active. 
 
-On click of "Blogs" -> "Home Page which shows all the blogs to guest user"
+On click of "Blogs" -> "Home Page which shows all the blogs to the guest user"
 On click of "View Doctor Profile" -> " Page with Doctor details and appointment booking"
-On click of "Search Doctor" --> "Page to search among available dotors and view their details for the user who logged in as patient"
-On click of "View Appointments" --> "List all the appointments to user when logged in as doctor"
+On click of "Search Doctor" --> "Page to search among available doctors and view their details for the user who logged in as patient"
+On click of "View Appointments" --> "List all the appointments to the user when logged in as doctor"
 On Click of "Login" --> "Login page"
 
 
-* Date Created: June 08th 2020
-* Last Modification Date: June 14th 2020
+* Date Created: June 08th, 2020
+* Last Modification Date: June 14th, 2020
 
 
 ## Author
 
-* Sai Sunil Menta : ss734478@dal.ca
+* Sai Sunil Menta: ss734478@dal.ca
+
+## Frontend framework user
+*Angular 8
+
+## Repository Link
+* https://git.cs.dal.ca/menta/a2_sai_sunil_menta
 
 ## Deployment
-
 Deployed in Heroku
 ###  In Heroku
 
@@ -68,7 +73,7 @@ aria-expanded="false" aria-label="Toggle navigation">
 
 ```
 
--  The code in [Bootstarp] was implemented by adding css for background color and hovers for the links.
+-  The code in [Bootstarp] was implemented by adding CSS for background color and hovers for the links.
 
 
 
@@ -131,7 +136,7 @@ The code above was created by adapting the code in [Angular Material] as shown b
 
 ```
 
--  The code in [Angular Material] was adopted and by removing headers from the card and changing the card dimesions in css along with hover.
+-  The code in [Angular Material] was adopted and by removing headers from the card and changing the card dimensions in CSS along with hover.
 
 
 
@@ -208,7 +213,7 @@ this.heroForm = new FormGroup({
 
 ```
 
--  The code in [Form Validation - Angular](https://angular.io/guide/form-validation)  was implemented by adding validations to the field as formcontrol in component.ts files and is accessed in component.html 
+-  The code in [Form Validation - Angular](https://angular.io/guide/form-validation)  was implemented by adding validations to the field as form-control in component.ts files and is accessed in component.html 
 file with form control name required.
 
 ### searchdoctor.component.html && searchdoctor.component.html
@@ -259,8 +264,8 @@ The code above was created by adapting the code in [Angular Material] as shown b
 
 ```
 
--  The code in [Angular Material]  was adopted by adding removing pictures and headers from card component. Extra css has been added with hover and dimension changes.
+-  The code in [Angular Material]  was adopted by adding removing pictures and headers from the card component. Extra CSS has been added with hover and dimension changes.
 
 ## Acknowledgments
 
-* Inspired from Angular Material Modules for all the component html pages.
+* Inspired from Angular Material Modules for all the component HTML pages.
