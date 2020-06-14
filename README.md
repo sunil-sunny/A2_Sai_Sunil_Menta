@@ -75,7 +75,7 @@ aria-expanded="false" aria-label="Toggle navigation">
 
 ### homepage.component.html
 
-Lines surrounded with <mat-card>
+Lines surrounded with mat-card
 -----------------------------------
 
 ```
@@ -213,7 +213,7 @@ file with form control name required.
 
 ### searchdoctor.component.html && searchdoctor.component.html
 
-Lines surrounded with <mat-card>
+Lines surrounded with mat-card
 -----------------------------------
 
 ```
