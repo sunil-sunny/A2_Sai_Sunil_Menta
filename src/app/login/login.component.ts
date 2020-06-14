@@ -21,7 +21,7 @@ export class LoginComponent implements OnInit {
       emailControl: ['', Validators.email],
     });
     this.passwordFormGroup = this.formBuilder.group({
-      passwordControl: ['', [Validators.required, Validators.minLength(8)]]
+      passwordControl: ['', [Validators.required]]
     });
 
 

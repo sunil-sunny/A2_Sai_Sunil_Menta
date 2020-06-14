@@ -19,11 +19,20 @@
 
 
 .mat-tab-group {
-  margin-bottom: 60px;
+  margin-bottom: 30px;
 }
 
 .appointmnetbutton{
   padding-left: 15px;
+}
+
+button:hover{
+  transform: scale(1.05);
+}
+
+
+mat-icon:hover{
+  transform: scale(1.25);
 }
 
 .my-container{
@@ -60,6 +69,14 @@ img{
 
 }
 
+.doctorname{
+  background-color:whitesmoke;
+}
 .myappointment{
   border: thin silver;
 }
+
+mat-icon:hover{
+  animation: up-bump 0.4s ease;
+}
+

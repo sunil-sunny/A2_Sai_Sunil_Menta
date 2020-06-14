@@ -36,3 +36,12 @@ padding-left: 15px;
   background-image: url('https://pickaface.net/gallery/avatar/InspireBuddy5290e4bdc07a4.png');
   background-size: cover;
 }
+
+mat-card:hover{
+  transform: scale(1.05);
+}
+
+.hardline
+{
+  border: solid #4f4d49;
+}

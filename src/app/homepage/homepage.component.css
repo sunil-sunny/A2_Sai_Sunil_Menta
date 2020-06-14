@@ -31,3 +31,10 @@
   padding-left: 20px;
 }
 
+button:hover{
+  transform: scale(1.05);
+}
+
+button:focus{
+  background-repeat: repeat;
+}

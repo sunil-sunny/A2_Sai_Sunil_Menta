@@ -14,3 +14,7 @@
   background-color:snow;
   border: thistle;
 }
+
+button:hover{
+  transform: scale(1.05);
+}
