@@ -20,6 +20,9 @@ import {MatGridListModule} from '@angular/material/grid-list';
 import { FormBuilder, FormControl, FormGroup, FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { DoctorPageAppointmentsComponent } from './doctor-page-appointments/doctor-page-appointments.component';
 import { SearchdoctorComponent } from './searchdoctor/searchdoctor.component';
+import {MatTabsModule} from '@angular/material/tabs';
+import {MatDatepickerModule} from '@angular/material/datepicker';
+import { MatNativeDateModule } from '@angular/material/core';
 
 
 
@@ -49,7 +52,9 @@ import { SearchdoctorComponent } from './searchdoctor/searchdoctor.component';
     MatGridListModule,
     FormsModule,
     ReactiveFormsModule,
-
+    MatTabsModule,
+    MatDatepickerModule,
+    MatNativeDateModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
