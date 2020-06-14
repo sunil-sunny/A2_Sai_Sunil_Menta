@@ -21,8 +21,8 @@ On Click of "Login" --> "Login page"
 
 * Sai Sunil Menta: ss734478@dal.ca
 
-## Frontend framework user
-*Angular 8
+## Frontend framework used
+* Angular 8
 
 ## Repository Link
 * https://git.cs.dal.ca/menta/a2_sai_sunil_menta
