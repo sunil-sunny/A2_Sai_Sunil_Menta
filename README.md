@@ -26,6 +26,7 @@ On Click of "Login" --> "Login page"
 
 ## Repository Link
 * https://git.cs.dal.ca/menta/a2_sai_sunil_menta
+* https://github.com/sunil-sunny/A2_Sai_Sunil_Menta
 
 ## Deployment
 Deployed in Heroku
