@@ -1,4 +1,4 @@
-#Assignment_2
+# Assignment 2
 
 Assignment 2 of the course is all about creating front end pages with embedding lorem ipsum text. This application has users with three roles i.e patient,
 doctor, and guest. Patients can log in and then search for doctors as per their requirements. After searching for the doctor, the patient can schedule an appointment with a doctor.
